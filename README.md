@@ -19,7 +19,7 @@ Almacenar información en una base de datos.
 
 Permitir consultar y filtrar libros y autores.
 
-# Funcionalidades 
+🛠️Funcionalidades
 
 ✔️ Búsqueda de libros mediante API
 ✔️ Conversión y análisis de datos JSON
